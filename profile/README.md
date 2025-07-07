@@ -36,7 +36,7 @@ ackack offers a range of purpose-built monitors:
 | Business    | $69/mo| 100+     | 15 sec   | All channels + Priority Support |
 | **FOSS Agent** | +$10 | Unlimited | –        | Prometheus, PushGateway, etc. |
 
-🔧 Need hybrid local + cloud monitoring? Check out our [FOSS Agent add-on](github.com/ackack.io/ackack).
+🔧 Need hybrid local + cloud monitoring? Check out our [FOSS Agent add-on](https://github.com/ackack-io/ackack).
 
 ---
 
