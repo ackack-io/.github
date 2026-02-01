@@ -1,4 +1,4 @@
-# ackack
+# [ackack](https://ackack.io)
 
 **Reliable uptime monitoring for indie devs, small teams, and side projects.**
 
@@ -42,7 +42,7 @@ Check out our [pricing page](https://ackack.io/pricing)!
 
 ## 🔗 Get Started
 
-- 🌐 [Website](https://ackack.io) 
+- 🌐 [ackack.io](https://ackack.io) 
 
 ---
 
