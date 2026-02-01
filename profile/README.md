@@ -20,47 +20,34 @@ ackack offers a range of purpose-built monitors:
 - **SSL Certificate Expiry** — expiration, chain validation, cipher checks
 - **TCP Port Monitoring** — perfect for databases and custom services
 - **DNS Record Checks** — validate A, AAAA, MX, TXT, etc.
-- **API Health Checks** — JSON validation, auth flows, OpenAPI specs *(Pro+)*
-- **Webhook Delivery** — retries, signature validation, payload matching *(Pro+)*
-- **Synthetic Browser Checks** — user flows, JS rendering, screenshot comparison *(Business)*
 
 ---
 
 ## 📦 Plans & Pricing
 
-| Plan        | Price | Monitors | Interval | Alerts                        |
-|-------------|-------|----------|----------|-------------------------------|
-| Free        | $0    | 3        | 3 min    | Email                         |
-| Starter     | $9/mo | 10       | 1 min    | Email, Discord, Slack         |
-| Pro         | $29/mo| 50       | 30 sec   | + Webhook, Multi-user, API    |
-| Business    | $69/mo| 100+     | 15 sec   | All channels + Priority Support |
-| **FOSS Agent** | +$10 | Unlimited | –        | Prometheus, PushGateway, etc. |
+Check out our [pricing page](https://ackack.io/pricing)!
+<!-- | **FOSS Agent** | +$10 | Unlimited | –        | Prometheus, PushGateway, etc. |
 
-🔧 Need hybrid local + cloud monitoring? Check out our [FOSS Agent add-on](https://github.com/ackack-io/ackack).
-
+// 🔧 Need hybrid local + cloud monitoring? Check out our [FOSS Agent add-on](https://github.com/ackack-io/ackack).
+-->
 ---
 
 ## 🎯 Why ackack?
 
-- ⚡ **Fast setup** — no YAML rabbit holes
+- ⚡ **Fast setup** — Use the web UI or create a token and use Terraform.
 - 🎯 **Focused alerts** — email, Discord, Slack, webhook
-- 💻 **Built for developers** — CLI-friendly, dark-mode by default
 - 🧠 **No-nonsense pricing** — hobbyist to pro without the upsell
 
 ---
 
 ## 🔗 Get Started
 
-- 🌐 [Website](https://ackack.io) *(coming soon)*
-- 📬 Join the waitinglist! [here](https://ackack.io/waitinglist) *(coming soon)*
-- 🐙 Stay tuned for our agent and API releases!
+- 🌐 [Website](https://ackack.io) 
 
 ---
 
 ## 💬 Join the Conversation
-
-We're building in public — feedback, ideas, and contributions welcome!
-
+  - We're on [discord](https://discord.com/channels/1391873983250436207/1391873985456902226)!
 ---
 
-© ackack LLC, 2025
+© ackack LLC, 2026
